@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dáma", "Dáma\Dáma.csproj", "{830785C8-78A8-4AE7-A8BF-1568D14F3F3C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{A80D415F-7721-4331-9359-A6B16FF54864}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Downloads\pngegg.png = ..\..\..\Downloads\pngegg.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{830785C8-78A8-4AE7-A8BF-1568D14F3F3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{830785C8-78A8-4AE7-A8BF-1568D14F3F3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{830785C8-78A8-4AE7-A8BF-1568D14F3F3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{830785C8-78A8-4AE7-A8BF-1568D14F3F3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {18025B02-1515-4087-8881-E7F958BE02E7}
+	EndGlobalSection
+EndGlobal
